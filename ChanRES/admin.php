@@ -27,7 +27,7 @@ body {
     width: 180px;
     padding: 10px 0px !important;
     font-weight: 700;
-    border-radius: 0px 5px 5px 0px;
+    border-radius: 0px 6px 6px 0px;
     z-index: 20;
 }
 nav ul {
