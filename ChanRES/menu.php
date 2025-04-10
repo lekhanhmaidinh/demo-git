@@ -166,7 +166,7 @@
                     <strong ><a href="chitiet.php" ><?=$row['tensanpham']?></a></strong><br/>
                     <label>Gia:</label><span class="product-pricee"><?=number_format($row['gia'],0,",",".")?>d</span><br/>
                    
-                        <a href="chitiet.php"><button type="button" class="btn btn-danger">Mua</button></a>
+                        <a href="chitie.php"><button type="button" class="btn btn-danger">Mua</button></a>
                 
                     
                 </div>
